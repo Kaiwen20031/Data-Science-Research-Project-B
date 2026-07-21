@@ -1,0 +1,13 @@
+variable,missing_count,missing_rate
+daily_cases,92,0.01584022038567493
+daily_deaths,14,0.0024104683195592287
+RegionName,0,0.0
+RegionCode,0,0.0
+Date,0,0.0
+C1M_School closing,0,0.0
+C2M_Workplace closing,0,0.0
+H6M_Facial Coverings,0,0.0
+ConfirmedCases,0,0.0
+ConfirmedDeaths,0,0.0
+cases_14d_avg,0,0.0
+deaths_14d_avg,0,0.0
