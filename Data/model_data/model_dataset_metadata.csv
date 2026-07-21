@@ -1,0 +1,4 @@
+outcome,target_column,n_full,n_train,n_test,n_features,dropped_columns
+mask,face_mask_behaviour_binary,40136,32108,8028,62,"RecordNo, endtime, face_mask_behaviour_binary, protective_behaviour_binary, social_avoidance_binary"
+protective,protective_behaviour_binary,40136,32108,8028,62,"RecordNo, endtime, face_mask_behaviour_binary, protective_behaviour_binary, social_avoidance_binary"
+social_avoidance,social_avoidance_binary,40136,32108,8028,62,"RecordNo, endtime, face_mask_behaviour_binary, protective_behaviour_binary, social_avoidance_binary"

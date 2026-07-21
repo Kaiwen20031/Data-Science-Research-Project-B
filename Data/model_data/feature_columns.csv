@@ -1,0 +1,63 @@
+feature
+i2_health
+age
+household_size
+cantril_ladder
+r1_1
+r1_2
+week_number
+C1M_School closing
+C2M_Workplace closing
+H6M_Facial Coverings
+cases_14d_avg
+deaths_14d_avg
+i9_health_Not sure
+i9_health_Yes
+i11_health_Not sure
+i11_health_Somewhat unwilling
+i11_health_Somewhat willing
+i11_health_Very unwilling
+i11_health_Very willing
+gender_Male
+state_New South Wales
+state_Northern Territory
+state_Queensland
+state_South Australia
+state_Tasmania
+state_Victoria
+state_Western Australia
+employment_status_Not working
+employment_status_Part time employment
+employment_status_Retired
+employment_status_Unemployed
+WCRex2_A lot of confidence
+WCRex2_Don't know
+WCRex2_No confidence at all
+WCRex2_Not very much confidence
+PHQ4_1_N/A
+PHQ4_1_Nearly every day
+PHQ4_1_Not at all
+PHQ4_1_Prefer not to say
+PHQ4_1_Several days
+PHQ4_2_N/A
+PHQ4_2_Nearly every day
+PHQ4_2_Not at all
+PHQ4_2_Prefer not to say
+PHQ4_2_Several days
+PHQ4_3_N/A
+PHQ4_3_Nearly every day
+PHQ4_3_Not at all
+PHQ4_3_Prefer not to say
+PHQ4_3_Several days
+PHQ4_4_N/A
+PHQ4_4_Nearly every day
+PHQ4_4_Not at all
+PHQ4_4_Prefer not to say
+PHQ4_4_Several days
+WCRex1_Somewhat badly
+WCRex1_Somewhat well
+WCRex1_Very badly
+WCRex1_Very well
+d1_comorbidities_No
+d1_comorbidities_Prefer_not_to_say
+d1_comorbidities_Yes
